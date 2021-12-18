@@ -1,0 +1,16 @@
+.gallery_section {
+    max-width: 40rem;
+    margin: 1em auto;
+}
+
+.thumbnails {
+    display: flex;
+}
+
+.thumbnail_image{
+    width: 33.333%;
+} 
+
+body{
+    background-color:rgb(144, 89, 196);
+}
